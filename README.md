@@ -18,39 +18,34 @@
 
 ---
 
-### About Us:
+### :man_technologist: About Us:
 
 **jaktestowac.pl** is created by Przemek & Krzysiek.
 
 - :man_technologist: We work as Senior Quality Assurance Engeeniers, Tech Leads and Test Architects
 
+- :trophy: We help to deliver quality products that will fulfill client needs
+
 - :man_scientist: We design and develop automation frameworks to support regression testing based on the technical analysis, complexity and reusability
 
-- :man_office_worker: We lead the implementation of test strategy, test plans and test execution of the product
+- :man_office_worker: We lead the implementation of test strategy, test plans and test execution of different products
 
 - :man_teacher: We mentor teams of QA specialists to improve team performance and enhance quality
 
 - :male_detective: We identify opportunities for process improvements
 
+- :man_technologist: We help developers on: [![Stackoverflow Badge](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/1266040/pbaranski)
+
 - :weight_lifting_man: In our free time, we train crossfit
 
-- :mailbox:How to reach us: [![Linkedin Badge](https://img.shields.io/badge/-jaktestowac.pl-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/company/jaktestowac)
+- :mailbox: You can reach us: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/jaktestowac)
 
 ---
 
-### :hammer_and_wrench: Languages and Tools:
+### :hammer_and_wrench: Skills:
 <div id="header" align="center">
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="selenium" alt="selenium" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="gitlab" alt="gitlab" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="jenkins" alt="jenkins" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+  
+[![Our Skills](https://skillicons.dev/icons?i=js,ts,nodejs,py,gherkin,selenium,vscode,docker,git,github,githubactions,gitlab,jenkins)](https://jaktestowac.pl)
+  
+[![Our Skills](https://skillicons.dev/icons?i=stackoverflow,godot,cs,heroku)](https://jaktestowac.pl)
 </div>
