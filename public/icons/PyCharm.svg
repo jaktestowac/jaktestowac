@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   fill="none"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="PyCharm.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16">
+    <linearGradient
+       x1="93.693671"
+       y1="96.402416"
+       x2="249.84295"
+       y2="96.402416"
+       id="linearGradient-1"
+       gradientTransform="scale(0.97573295,1.0248706)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#21D789"
+         offset="0%"
+         id="stop988" />
+      <stop
+         stop-color="#07C3F2"
+         offset="100%"
+         id="stop990" />
+    </linearGradient>
+    <linearGradient
+       x1="-99.363401"
+       y1="195.22146"
+       x2="247.82193"
+       y2="-14.023127"
+       id="linearGradient-2"
+       gradientTransform="scale(0.90355202,1.1067431)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#FCF84A"
+         offset="1%"
+         id="stop993" />
+      <stop
+         stop-color="#A7EB62"
+         offset="11%"
+         id="stop995" />
+      <stop
+         stop-color="#5FE077"
+         offset="21%"
+         id="stop997" />
+      <stop
+         stop-color="#32DA84"
+         offset="27%"
+         id="stop999" />
+      <stop
+         stop-color="#21D789"
+         offset="31%"
+         id="stop1001" />
+      <stop
+         stop-color="#21D789"
+         offset="58%"
+         id="stop1003" />
+      <stop
+         stop-color="#21D789"
+         offset="60%"
+         id="stop1005" />
+      <stop
+         stop-color="#20D68C"
+         offset="69%"
+         id="stop1007" />
+      <stop
+         stop-color="#1ED497"
+         offset="76%"
+         id="stop1009" />
+      <stop
+         stop-color="#19D1A9"
+         offset="83%"
+         id="stop1011" />
+      <stop
+         stop-color="#13CCC2"
+         offset="90%"
+         id="stop1013" />
+      <stop
+         stop-color="#0BC6E1"
+         offset="97%"
+         id="stop1015" />
+      <stop
+         stop-color="#07C3F2"
+         offset="100%"
+         id="stop1017" />
+    </linearGradient>
+    <linearGradient
+       x1="42.852697"
+       y1="226.226"
+       x2="108.52503"
+       y2="95.426644"
+       id="linearGradient-3"
+       gradientTransform="scale(0.79668262,1.255205)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#21D789"
+         offset="0%"
+         id="stop1020" />
+      <stop
+         stop-color="#24D788"
+         offset="16%"
+         id="stop1022" />
+      <stop
+         stop-color="#2FD886"
+         offset="30%"
+         id="stop1024" />
+      <stop
+         stop-color="#41DA82"
+         offset="44%"
+         id="stop1026" />
+      <stop
+         stop-color="#5ADC7D"
+         offset="56%"
+         id="stop1028" />
+      <stop
+         stop-color="#7AE077"
+         offset="69%"
+         id="stop1030" />
+      <stop
+         stop-color="#A1E36E"
+         offset="81%"
+         id="stop1032" />
+      <stop
+         stop-color="#CFE865"
+         offset="93%"
+         id="stop1034" />
+      <stop
+         stop-color="#F1EB5E"
+         offset="100%"
+         id="stop1036" />
+    </linearGradient>
+    <linearGradient
+       x1="91.822069"
+       y1="159.05733"
+       x2="192.91335"
+       y2="-13.358022"
+       id="linearGradient-4"
+       gradientTransform="scale(1.1263088,0.88785601)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#21D789"
+         offset="0%"
+         id="stop1039" />
+      <stop
+         stop-color="#24D788"
+         offset="6%"
+         id="stop1041" />
+      <stop
+         stop-color="#2FD886"
+         offset="11%"
+         id="stop1043" />
+      <stop
+         stop-color="#41DA82"
+         offset="16%"
+         id="stop1045" />
+      <stop
+         stop-color="#5ADD7D"
+         offset="21%"
+         id="stop1047" />
+      <stop
+         stop-color="#79E077"
+         offset="25%"
+         id="stop1049" />
+      <stop
+         stop-color="#7CE076"
+         offset="26%"
+         id="stop1051" />
+      <stop
+         stop-color="#8CE173"
+         offset="50%"
+         id="stop1053" />
+      <stop
+         stop-color="#B2E56B"
+         offset="92%"
+         id="stop1055" />
+    </linearGradient>
+    <linearGradient
+       x1="284.76569"
+       y1="156.64188"
+       x2="49.372791"
+       y2="154.55618"
+       id="linearGradient-5"
+       gradientTransform="scale(0.97462589,1.0260347)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#FCF84A"
+         offset="39%"
+         id="stop1058" />
+      <stop
+         stop-color="#ECF451"
+         offset="54%"
+         id="stop1060" />
+      <stop
+         stop-color="#C2E964"
+         offset="83%"
+         id="stop1062" />
+      <stop
+         stop-color="#B2E56B"
+         offset="92%"
+         id="stop1064" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="2.2925728"
+     inkscape:cx="116.84598"
+     inkscape:cy="115.38499"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <rect
+     width="256"
+     height="256"
+     fill="#242938"
+     rx="60"
+     id="rect2"
+     x="0"
+     y="0" />
+  <g
+     id="g1083"
+     transform="matrix(0.83642831,0,0,0.83642831,20.937176,20.937176)">
+    <polygon
+       fill="url(#linearGradient-1)"
+       points="143.2,144.8 179.6,40.4 254.4,102.4 227.2,157.2 182.4,144.8 "
+       id="polygon1069"
+       style="fill:url(#linearGradient-1)" />
+    <polygon
+       fill="url(#linearGradient-2)"
+       points="89.6,157.2 88.4,183.6 51.6,199.2 0,204.8 15.6,39.2 109.6,0 167.2,38 104,80.8 "
+       id="polygon1071"
+       style="fill:url(#linearGradient-2)" />
+    <polygon
+       fill="url(#linearGradient-3)"
+       points="72,97.2 104,80.8 111.2,228.4 87.6,256 0,204.8 "
+       id="polygon1073"
+       style="fill:url(#linearGradient-3)" />
+    <polygon
+       fill="url(#linearGradient-4)"
+       points="200.8,70 112,70 190.4,0 "
+       id="polygon1075"
+       style="fill:url(#linearGradient-4)" />
+    <polygon
+       fill="url(#linearGradient-5)"
+       points="178,255.6 74,226.4 104,80.8 116,70 179.6,64 173.6,127.6 224,108 256,228.8 "
+       id="polygon1077"
+       style="fill:url(#linearGradient-5)" />
+    <rect
+       fill="#000000"
+       x="48"
+       y="48"
+       width="160"
+       height="160"
+       id="rect1079" />
+    <path
+       d="m 63.2,178 h 60 v 10 h -60 z M 62.8,68.8 H 90 c 16,0 25.2,9.2 25.2,22.8 0,15.2 -12,23.2 -26.8,23.2 H 77.2 v 20 H 62.8 Z m 37.6,23.6 c 0,-6.4 -4.4,-10 -12,-10 H 77.2 v 20.4 h 11.6 c 7.86,0 11.6,-4.8 11.6,-10.4 z m 20.4,10 c -0.20424,-9.184537 3.35441,-18.05348 9.85047,-24.549534 C 137.14652,71.354413 146.01546,67.795762 155.2,68 c 12.4,0 20,4 26,10.4 L 172,89.2 c -5.2,-4.8 -10.4,-7.6 -16.8,-7.6 -11.2,0 -19.2,9.2 -19.2,20.8 0,11.2 8,20.8 19.2,20.8 7.6,0 12.4,-3.2 17.6,-7.6 l 9.2,9.2 c -6.8,7.2 -14.4,12 -27.2,12 -9.0871,6.3e-4 -17.7963,-3.63636 -24.18416,-10.09937 C 124.22798,120.23762 120.69309,111.48647 120.8,102.4 Z"
+       fill="#ffffff"
+       id="path1081" />
+  </g>
+</svg>
