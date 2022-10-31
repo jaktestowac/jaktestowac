@@ -44,8 +44,36 @@
 
 ### :hammer_and_wrench: Skills:
 <div id="header" align="center">
-  
-[![Our Skills](https://skillicons.dev/icons?i=js,ts,nodejs,py,gherkin,selenium,vscode,docker,git,github,githubactions,gitlab,jenkins)](https://jaktestowac.pl)
-  
-[![Our Skills](https://skillicons.dev/icons?i=stackoverflow,godot,cs,heroku)](https://jaktestowac.pl)
+  <a href="https://www.linkedin.com/company/jaktestowac" style="text-decoration: none !important;background-color: unset !important;">
+<div>
+  <img src="https://github.com/jaktestowac/jaktestowac/blob/main/public/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="64" height="64"/>&nbsp;
+  <img src="https://github.com/jaktestowac/jaktestowac/blob/main/public/icons/TypeScript.svg" title="TypeScript" alt="TypeScript" width="64" height="64"/>&nbsp;
+  <img src="https://github.com/jaktestowac/jaktestowac/blob/main/public/icons/Python.svg" title="Python" alt="Python" width="64" height="64"/>&nbsp;
+  <img src="https://github.com/jaktestowac/jaktestowac/blob/main/public/icons/CS.svg" title="CS" alt="CS" width="64" height="64"/>&nbsp;
+  <img src="https://github.com/jaktestowac/jaktestowac/blob/main/public/icons/Selenium.svg" title="Selenium" alt="Selenium" width="64" height="64"/>&nbsp;
+  <img src="https://github.com/jaktestowac/jaktestowac/blob/main/public/icons/Playwright.svg" title="Playwright" alt="Playwright" width="64" height="64"/>&nbsp;
+  <img src="https://github.com/jaktestowac/jaktestowac/blob/main/public/icons/Cypress.svg" title="Cypress" alt="Cypress" width="64" height="64"/>&nbsp;
+  <img src="https://github.com/jaktestowac/jaktestowac/blob/main/public/icons/NodeJS.svg" title="NodeJS" alt="NodeJS" width="64" height="64"/>&nbsp;
+  <img src="https://github.com/jaktestowac/jaktestowac/blob/main/public/icons/Mocha.svg" title="Mocha" alt="Mocha" width="64" height="64"/>&nbsp;
+  </br>
+  <img src="https://github.com/jaktestowac/jaktestowac/blob/main/public/icons/Docker.svg" title="Docker" alt="Docker" width="64" height="64"/>&nbsp;
+  <img src="https://github.com/jaktestowac/jaktestowac/blob/main/public/icons/Git.svg" title="Git" alt="Git" width="64" height="64"/>&nbsp;
+  <img src="https://github.com/jaktestowac/jaktestowac/blob/main/public/icons/Github.svg" title="GitHub" alt="GitHub" width="64" height="64"/>&nbsp;
+  <img src="https://github.com/jaktestowac/jaktestowac/blob/main/public/icons/GithubActions.svg" title="GitHubActions" alt="GitHubActions" width="64" height="64"/>&nbsp;
+  <img src="https://github.com/jaktestowac/jaktestowac/blob/main/public/icons/GitLab.svg" title="GitLab" alt="GitLab" width="64" height="64"/>&nbsp;
+  <img src="https://github.com/jaktestowac/jaktestowac/blob/main/public/icons/Jenkins.svg" title="Jenkins" alt="Jenkins" width="64" height="64"/>&nbsp;
+  </br>
+  <img src="https://github.com/jaktestowac/jaktestowac/blob/main/public/icons/Postman.svg" title="Postman" alt="Postman" width="64" height="64"/>&nbsp;
+  <img src="https://github.com/jaktestowac/jaktestowac/blob/main/public/icons/Newman.svg" title="Newman" alt="Newman" width="64" height="64"/>&nbsp;
+  <img src="https://github.com/jaktestowac/jaktestowac/blob/main/public/icons/Gherkin.svg" title="Gherkin" alt="Gherkin" width="64" height="64"/>&nbsp;
+  <img src="https://github.com/jaktestowac/jaktestowac/blob/main/public/icons/Swagger.svg" title="Swagger" alt="Swagger" width="64" height="64"/>&nbsp;
+  <img src="https://github.com/jaktestowac/jaktestowac/blob/main/public/icons/RestApi.svg" title="RestApi" alt="RestApi" width="64" height="64"/>&nbsp;
+  <img src="https://github.com/jaktestowac/jaktestowac/blob/main/public/icons/Heroku.svg" title="Heroku" alt="Heroku" width="64" height="64"/>&nbsp;
+  <img src="https://github.com/jaktestowac/jaktestowac/blob/main/public/icons/StackOverflow.svg" title="StackOverflow" alt="StackOverflow" width="64" height="64"/>&nbsp;
+  </br>
+  <img src="https://github.com/jaktestowac/jaktestowac/blob/main/public/icons/PyCharm.svg" title="PyCharm" alt="PyCharm" width="64" height="64"/>&nbsp;
+  <img src="https://github.com/jaktestowac/jaktestowac/blob/main/public/icons/VSCode.svg" title="VSCode" alt="VSCode" width="64" height="64"/>&nbsp;
+  <img src="https://github.com/jaktestowac/jaktestowac/blob/main/public/icons/Godot.svg" title="Godot" alt="Godot" width="64" height="64"/>&nbsp;
+</div>
+</a>
 </div>
