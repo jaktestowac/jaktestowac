@@ -40,6 +40,21 @@
 
 - :mailbox: You can reach us: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/jaktestowac)
 
+### List of ways you can follow us:
+
+- 📄 [Main site](https://jaktestowac.pl/) Our main site
+- 📝 [Blog](https://jaktestowac.pl/blog/) Our articles on testing and quality assurance
+- 📦 [Resources](https://jaktestowac.pl/kursy/) Our courses for testers and QAs
+- 📺 [YouTube Channel](https://www.youtube.com/@jaktestowac/featured) For free videos on test automation, testing and self development
+- 📸 [Instagram](https://www.instagram.com/jaktestowac.pl/) Follow us for all things related to quality assurance
+- 👨‍💻 [LinkedIn](https://www.linkedin.com/company/jaktestowac) Follow us for all things related to quality assurance
+
+### Popular YouTube playlists
+
+- [PL] [Praktyczne wprowadzenie do testów automatycznych z Playwright] - [YouTube](https://www.youtube.com/playlist?list=PLfKhn9AcZ-cD2TCB__K7NP5XARaCzZYn7)
+- [PL] [Rekrutacyjne protipy dla testerów (jaktestowac.pl vlog S02)] - [YouTube](https://www.youtube.com/playlist?list=PLfKhn9AcZ-cBbx8P439txpIw4UCU31nTg)
+- [PL] [Jakość i testowanie (jaktestowac.pl vlog S01)] - [YouTube](https://www.youtube.com/playlist?list=PLfKhn9AcZ-cDZGYFkgjZGiBO4kGv5JNT6)
+
 ---
 
 ### :hammer_and_wrench: Skills:
