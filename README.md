@@ -58,8 +58,9 @@ Through our platform, we not only offer specialized courses but also actively co
 - 📺 [PL 🇵🇱] [YouTube Channel](https://www.youtube.com/@jaktestowac/featured) For free videos on test automation, testing and self development
 - 📸 [PL 🇵🇱] [Instagram](https://www.instagram.com/jaktestowac.pl/) Follow us for all things related to quality assurance
 - 👨‍💻 [PL 🇵🇱] [LinkedIn](https://www.linkedin.com/company/jaktestowac) Follow us for all things related to quality assurance
-- 👨‍💻 [PL 🇵🇱] [Discord Community](https://discord.gg/mUAqQ7FUaZ) Join our Discord Community - first Polish Community about automation with Playwright!
-- 📦 [VisualStudio Marketplace](https://marketplace.visualstudio.com/publishers/jaktestowac-pl) Our free plugins for VS Code and Playwright
+- 🌱 [PL 🇵🇱] [Discord Community](https://discord.gg/mUAqQ7FUaZ) Join our Discord Community - first Polish Community about automation with Playwright!
+- 🧩 [ENG 🇬🇧] [VisualStudio Marketplace](https://marketplace.visualstudio.com/publishers/jaktestowac-pl) Our free plugins for VS Code and Playwright
+- 🙌 [ENG 🇬🇧] [Playwright Contribution](https://jaktestowac.pl/contribution-playwright/) Check our contribution to International Playwright Community
 
 ### Popular YouTube playlists
 
