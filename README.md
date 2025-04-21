@@ -45,26 +45,28 @@ We have been honored with the **Ludzie Testowania 2024** (**Testers of the Year 
 Through our platform, we not only offer specialized courses but also actively contribute to the testing community through public speaking engagements, educational materials, plugins, and insightful posts. 
 
 <div id="header" align="center">
-<img src="https://raw.githubusercontent.com/jaktestowac/jaktestowac/main/public/testers-of-the-year-2024-jaktestowac.jpg" width="70%" />
+<img src="https://raw.githubusercontent.com/jaktestowac/jaktestowac/main/public/testers-of-the-year-2024-jaktestowac.jpg" width="50%" />
 </div>
 
 ### List of ways you can follow us:
 
-- 📄 [Main site](https://jaktestowac.pl/) Our main site
-- 📝 [Blog](https://jaktestowac.pl/blog/) Our articles on testing and quality assurance
-- 📦 [Resources](https://jaktestowac.pl/kursy/) Our courses for testers and QAs (check our 20+ hours of free content! [PL][DARMOWE MATERIAŁY O PLAYWRIGHT](https://jaktestowac.pl/darmowy-playwright/))
-- 📺 [YouTube Channel](https://www.youtube.com/@jaktestowac/featured) For free videos on test automation, testing and self development
-- 📸 [Instagram](https://www.instagram.com/jaktestowac.pl/) Follow us for all things related to quality assurance
-- 👨‍💻 [LinkedIn](https://www.linkedin.com/company/jaktestowac) Follow us for all things related to quality assurance
-- 👨‍💻 [Polish][Discord Community](https://discord.gg/mUAqQ7FUaZ) Join our Discord Community - first Polish Community about automation with Playwright!
+- 📄 [PL 🇵🇱] [Main site](https://jaktestowac.pl/) Our main site
+- 📝 [PL 🇵🇱] [Blog](https://jaktestowac.pl/blog/) Our articles on testing and quality assurance
+- 📝 [PL 🇵🇱] [Blog playwright.info](https://playwright.info/) Our blog about Playwright, automation and best practices (first and only Polsih blog dedicated to Playwright)
+- 📦 [PL 🇵🇱] [Resources](https://jaktestowac.pl/kursy/) Our courses for testers and QAs 
+  - Check our 20+ hours of free content! [PL🇵🇱] **[DARMOWE MATERIAŁY O PLAYWRIGHT](https://jaktestowac.pl/darmowy-playwright/)**
+- 📺 [PL 🇵🇱] [YouTube Channel](https://www.youtube.com/@jaktestowac/featured) For free videos on test automation, testing and self development
+- 📸 [PL 🇵🇱] [Instagram](https://www.instagram.com/jaktestowac.pl/) Follow us for all things related to quality assurance
+- 👨‍💻 [PL 🇵🇱] [LinkedIn](https://www.linkedin.com/company/jaktestowac) Follow us for all things related to quality assurance
+- 👨‍💻 [PL 🇵🇱] [Discord Community](https://discord.gg/mUAqQ7FUaZ) Join our Discord Community - first Polish Community about automation with Playwright!
 - 📦 [VisualStudio Marketplace](https://marketplace.visualstudio.com/publishers/jaktestowac-pl) Our free plugins for VS Code and Playwright
 
 ### Popular YouTube playlists
 
-- [PL] **Praktyczne wprowadzenie do testów automatycznych z Playwright** - [YouTube](https://www.youtube.com/playlist?list=PLfKhn9AcZ-cD2TCB__K7NP5XARaCzZYn7)
-- [PL] **Playwright Elements - Kluczowe koncepcje automatyzacji testów** - [YouTube](https://www.youtube.com/playlist?list=PLfKhn9AcZ-cAcpd-XN4pKeo-l4YK35FDA)
-- [PL] **Rekrutacyjne protipy dla testerów (jaktestowac.pl vlog S02)** - [YouTube](https://www.youtube.com/playlist?list=PLfKhn9AcZ-cBbx8P439txpIw4UCU31nTg)
-- [PL] **Jakość i testowanie (jaktestowac.pl vlog S01)** - [YouTube](https://www.youtube.com/playlist?list=PLfKhn9AcZ-cDZGYFkgjZGiBO4kGv5JNT6)
+- [PL 🇵🇱] **Praktyczne wprowadzenie do testów automatycznych z Playwright** - [YouTube](https://www.youtube.com/playlist?list=PLfKhn9AcZ-cD2TCB__K7NP5XARaCzZYn7)
+- [PL 🇵🇱] **Playwright Elements - Kluczowe koncepcje automatyzacji testów** - [YouTube](https://www.youtube.com/playlist?list=PLfKhn9AcZ-cAcpd-XN4pKeo-l4YK35FDA)
+- [PL 🇵🇱] **Rekrutacyjne protipy dla testerów (jaktestowac.pl vlog S02)** - [YouTube](https://www.youtube.com/playlist?list=PLfKhn9AcZ-cBbx8P439txpIw4UCU31nTg)
+- [PL 🇵🇱] **Jakość i testowanie (jaktestowac.pl vlog S01)** - [YouTube](https://www.youtube.com/playlist?list=PLfKhn9AcZ-cDZGYFkgjZGiBO4kGv5JNT6)
 
 ---
 
