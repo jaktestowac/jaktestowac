@@ -52,7 +52,7 @@ Through our platform, we not only offer specialized courses but also actively co
 
 - 📄 [PL 🇵🇱] [Main site](https://jaktestowac.pl/) Our main site
 - 📝 [PL 🇵🇱] [Blog](https://jaktestowac.pl/blog/) Our articles on testing and quality assurance
-- 📝 [PL 🇵🇱] [Blog playwright.info](https://playwright.info/) Our blog about Playwright, automation and best practices (first and only Polsih blog dedicated to Playwright)
+- 📝 [PL 🇵🇱] [Blog playwright.info](https://playwright.info/) Our blog about Playwright, automation and best practices (first and only Polish blog dedicated to Playwright)
 - 📦 [PL 🇵🇱] [Resources](https://jaktestowac.pl/kursy/) Our courses for testers and QAs 
   - Check our 20+ hours of free content! [PL🇵🇱] **[DARMOWE MATERIAŁY O PLAYWRIGHT](https://jaktestowac.pl/darmowy-playwright/)**
 - 📺 [PL 🇵🇱] [YouTube Channel](https://www.youtube.com/@jaktestowac/featured) For free videos on test automation, testing and self development
