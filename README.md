@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="./public/jaktestowac.pl-banner.jpg" width="70%" />
+<img src="./public/jaktestowac.pl-banner.jpg" width="90%" />
 <div id="badges">
   <a href="https://jaktestowac.pl/">
     <img src="https://img.shields.io/badge/jaktestowac.pl-d30000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAARmAAAEZgH0KboNAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAA2xJREFUWIXtlm9I3HUcx1/fnz89vak53Xnu0mbm/jRUotEGlbdibg/G5AaDVjCp2KPowegPw0cLgoo9W20QQkhlQsRKXRNm8zYONkO3aP1RnNJlpe2fuUqd7jrv3YNuom138+yOFfSGH/x4f7583i++38/vj5EkUq8jxhjfrQo2wFRPD5OBQEqSl+7eTVp+fsy6DTBx8iSX6utTApBTWxsXwEpJagL6H+COA9jxisXNzTjKyxfU6GpjI2MNDckFyKyqIrOiYkGNJo4fTzgc/gVH8N8D+Pr7RqZDV+8cwI+XA7x99F46v3yB8amRWd9RUYGx445UcgBK3ZsIhSf4YvAgDe0rOdr9DGPj58n1+Vg5OEjBnj1YWVmpBKiZvZ+JhOj94QPeOVbJ4VM+xnJ/YfmBA6wKBlm2dy9Wbm7yAbKzPBTk3j/PkyJ893M773VuoPmElxHTR9H+/awZHsZ2uwEykwYAfx1DLA2PdvFhYAvNJ7wExwOkLc0DqJH0vqSb3mpJB5gL8vGp7TR+9iDfDjVZEYXrgD5J70qa3cK4Y/t7SwtTZ87M85ZUV1OyYiOWsYkofFuQK79+Q3vPs3T1vcbW9Y3pxcsefhqok9QGvBEX4PK+fTd5ebt2UdzUxPKChxgZ/TxuuDEW7rwHuM+zjbX37CQ/Z/WN0lfRK5Twgzvh94NEaWFNTIAlmUV4K1+l3FOL0+ECEBAAWoE2Y8zQjbUJz0D4wgWme3vjzsHk9EX+CE/idLiIXLsG0GGMedwY8+bc8EUBAEx2duIp2ECGnT3PX7/6RRzpeQD4z71M/0+HsZxOAE+sXosCmPD7sax0SlzeWa8gZw0bq17nCW876WlOpBk+7a4jeLEDoFLSk7fqZSQpFAxyvb9/wQDGtsnevJmzg2/hP/cSADsebaW8aCtYFgMjrbR27USaIcPO5qnH/BTlrwsBPmPMsbm9bKAvo6yMjLKyRDeidIV7kxOgxFVNuWcbwBVAq+7eXrhl3SE6zj6H664KcpzFANeBtERDYkrSK1JEh9qKNTLaLUmXJOVEawcl6fxwi8Iz05I0JKkyaeHRkEckaWC4VVE9P6dmSfoo6p+WVJjU8GiILem3aMiApPS/1R2S6iXF/BAlA+JIFGDHYnsk/gszX37ADXzyD/ssTpLWSvLefmVs/QnDI3HvlQ8RhAAAAABJRU5ErkJggg==" alt="jaktestowac.pl Badge"/>
@@ -51,10 +51,12 @@ Through our platform, we not only offer specialized courses but also actively co
 ### List of ways you can follow us:
 
 - 📄 [PL 🇵🇱] [Main site](https://jaktestowac.pl/) Our main site
+- 📄 [PL 🇵🇱] **[MEGA Free Playwright Courses and Webinars](https://jaktestowac.pl/darmowy-playwright/)**
+- 📄 [PL 🇵🇱] **[AI_TESTERS](https://aitester.pl/)** - See how AI (Copilot, MCP, AI Agents) can boost Your work and quality!
 - 📝 [PL 🇵🇱] [Blog](https://jaktestowac.pl/blog/) Our articles on testing and quality assurance
 - 📝 [PL 🇵🇱] [Blog playwright.info](https://playwright.info/) Our blog about Playwright, automation and best practices (first and only Polish blog dedicated to Playwright)
 - 📦 [PL 🇵🇱] [Resources](https://jaktestowac.pl/kursy/) Our courses for testers and QAs 
-  - Check our 20+ hours of free content! [PL🇵🇱] **[DARMOWE MATERIAŁY O PLAYWRIGHT](https://jaktestowac.pl/darmowy-playwright/)**
+   - Check our 20+ hours of free content! [PL🇵🇱] **[DARMOWE MATERIAŁY O PLAYWRIGHT](https://jaktestowac.pl/darmowy-playwright/)**
 - 📺 [PL 🇵🇱] [YouTube Channel](https://www.youtube.com/@jaktestowac/featured) For free videos on test automation, testing and self development
 - 📸 [PL 🇵🇱] [Instagram](https://www.instagram.com/jaktestowac.pl/) Follow us for all things related to quality assurance
 - 👨‍💻 [PL 🇵🇱] [LinkedIn](https://www.linkedin.com/company/jaktestowac) Follow us for all things related to quality assurance
@@ -68,6 +70,7 @@ Through our platform, we not only offer specialized courses but also actively co
 - [PL 🇵🇱] **Playwright Elements - Kluczowe koncepcje automatyzacji testów** - [YouTube](https://www.youtube.com/playlist?list=PLfKhn9AcZ-cAcpd-XN4pKeo-l4YK35FDA)
 - [PL 🇵🇱] **Rekrutacyjne protipy dla testerów (jaktestowac.pl vlog S02)** - [YouTube](https://www.youtube.com/playlist?list=PLfKhn9AcZ-cBbx8P439txpIw4UCU31nTg)
 - [PL 🇵🇱] **Jakość i testowanie (jaktestowac.pl vlog S01)** - [YouTube](https://www.youtube.com/playlist?list=PLfKhn9AcZ-cDZGYFkgjZGiBO4kGv5JNT6)
+- [PL 🇵🇱] **TypeScript for Testers** - [YouTube](https://www.youtube.com/playlist?list=PLfKhn9AcZ-cD2AJmR8W5C4qGG9e5YiAGa) - 4 hours free course specially designed for Testers
 
 ---
 
